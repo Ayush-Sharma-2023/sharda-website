@@ -6,7 +6,7 @@ function Resources() {
   const classes = Array.from({ length: 12 }, (_, index) => `Class ${index + 1}`); // Generate Class 1 to Class 12
 
   const handleIconClick = () => {
-    // Redirect to the specific URL
+    // Redirect to the specific 
     window.open("https://ncert.nic.in/textbook/pdf/aemh1dd.zip");
   };
 
