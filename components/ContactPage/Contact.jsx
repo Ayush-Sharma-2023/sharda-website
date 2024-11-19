@@ -23,8 +23,8 @@ const Contact = () => {
 
       <div className="info-section">
         <p>SHARDA UNIVERSITY, APJ Abdul Kalam Road, Knowledge Park III, Greater Noida, Uttar Pradesh, India</p>
-        <p><a href="tel:+917980476255">+91-7980476255</a></p>
-        <p><a href="mailto:kashishh2423@gmail.com">kashishh2423@gmail.com</a></p>
+        <p><a href="tel:+919366242126">+91-9366242126</a></p>
+        <p><a href="mailto:ayushsharmaarps@gmail.com">ayushsharmaarps@gmail.com</a></p>
         <p>Mon-Fri : 08:00-19:00</p>
       </div>
 
