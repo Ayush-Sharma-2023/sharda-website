@@ -1,0 +1,45 @@
+.units-section {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;  */
+  align-items: center; 
+  /* min-width: 1000px; */
+  margin: 0; /* Remove default margin */
+  margin-top: 10px;
+}
+
+.units-heading {
+  font-size: 3rem;
+  color: #6200ea; /* Light purple heading */
+  margin-bottom: 20px;
+  
+}
+
+.units-container {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column; /* Stack rectangles vertically */
+  gap: 40px; /* Space between rectangles */
+  align-items: center; /* Center the rectangles horizontally */
+}
+
+.unit-rectangle {
+  background-color: #e0bbff; /* Light purple background */
+  border-radius: 8px;
+  width: 80%; /* Rectangle takes 80% of the container width */
+  /* aspect-ratio: 5/1; Ratio of width to height: 5:1 */
+  height: 4rem ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.unit-text {
+  font-size: 1.5rem;
+  color: #6200ea; /* Darker purple text */
+  font-weight: bold;
+  min-width: 1000px;
+}
